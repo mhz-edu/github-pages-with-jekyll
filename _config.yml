@@ -1,5 +1,6 @@
 title: Testing gh-pages
 author: Roman
+theme: minima
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 
